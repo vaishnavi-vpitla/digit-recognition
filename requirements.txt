@@ -3,4 +3,4 @@ streamlit-drawable-canvas
 numpy
 opencv-python-headless
 pillow
-tf-keras
+tensorflow
